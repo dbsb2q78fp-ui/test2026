@@ -1,6 +1,8 @@
 # test2026
 
+গিটহাবে এটি আমার প্রথম রিপোজিটরি!
 
-Das ist mein estes repository auf GitHub!
+এখন আমি সেটা পরিবর্তন করছি, ওয়েবসাইটে নয়, বরং ভিএসসি-তে।
 
-jetzt ändere ich das, nicht auf der seite, sondern in vsc.
+sie hat ein bauchnabelpoercing lange blonde haare
+(du nicht, weder piercing noch blond, noch langhaarig) ätsch bätsch selber
